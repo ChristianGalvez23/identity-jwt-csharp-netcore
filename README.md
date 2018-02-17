@@ -27,5 +27,5 @@ Password must have at least one upper case character, one digit and one symbol.
 
 **GET** http://localhost:5000/account/protected
 
-##Postman doc##
+## Postman doc
 https://documenter.getpostman.com/collection/view/983656-ac72c46e-bb97-aab2-5b2c-998f8951f4a5
